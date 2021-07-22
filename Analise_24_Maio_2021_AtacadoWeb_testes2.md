@@ -1,5 +1,9 @@
 ## Produtos com Promoção + Pack/ Desconto Atacado
 
+![image](https://user-images.githubusercontent.com/50722662/126704493-38e2b307-d932-47aa-84e9-aab9192d8568.png)
+
+
+
 1. Mensagens de aviso ao cadastrar um produto com 2 tipos de promoção
     * Mensagem ao cadastrar promoção (teste ok)
    
